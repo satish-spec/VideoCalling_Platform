@@ -1,3 +1,4 @@
+```
 Video Calling Platform
 
 A full-stack video calling platform that enables users to create and join secure video
@@ -46,4 +47,5 @@ Project Structure
       ├── styles/
       └── utils/
 
+```
 
